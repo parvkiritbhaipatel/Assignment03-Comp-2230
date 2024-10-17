@@ -30,7 +30,7 @@ h1 {
 
 ul {
     list-style-type: none;
-    padding: 5;
+    padding: 0;
 }
 
 button {
@@ -41,6 +41,7 @@ button {
     color: white;
     border-radius: 10px;
     cursor: pointer;
+    margin: 10px;
 }
 
 button:hover {
