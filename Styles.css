@@ -30,7 +30,7 @@ h1 {
 
 ul {
     list-style-type: none;
-    padding: 0;
+    padding: 5;
 }
 
 button {
@@ -39,7 +39,7 @@ button {
     border: none;
     background-color: #007bff;
     color: white;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
 }
 
